@@ -1,2 +1,2 @@
 Not empty README
-second
+My Second
